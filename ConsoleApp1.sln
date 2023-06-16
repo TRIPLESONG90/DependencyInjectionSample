@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{5E501CC8-D63A-484E-961C-80B5C1D950AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Normal", "Normal\Normal.csproj", "{3B39149C-29BA-472A-8A25-937CBBC1A0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{19CFB6CC-5170-42BC-80FD-0D998393AB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E501CC8-D63A-484E-961C-80B5C1D950AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E501CC8-D63A-484E-961C-80B5C1D950AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E501CC8-D63A-484E-961C-80B5C1D950AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E501CC8-D63A-484E-961C-80B5C1D950AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B39149C-29BA-472A-8A25-937CBBC1A0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B39149C-29BA-472A-8A25-937CBBC1A0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B39149C-29BA-472A-8A25-937CBBC1A0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B39149C-29BA-472A-8A25-937CBBC1A0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CFB6CC-5170-42BC-80FD-0D998393AB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CFB6CC-5170-42BC-80FD-0D998393AB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CFB6CC-5170-42BC-80FD-0D998393AB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CFB6CC-5170-42BC-80FD-0D998393AB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB602452-6D80-4DA8-810E-677F46EDA69A}
+	EndGlobalSection
+EndGlobal
